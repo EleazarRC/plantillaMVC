@@ -1,0 +1,16 @@
+{
+    "name": "eleazar/app",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Eleazar\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eleazar Ramos Cortés",
+            "email": "sixen25@gmail.com"
+        }
+    ],
+    "require": {}
+}
